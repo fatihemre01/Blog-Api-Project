@@ -1,0 +1,2 @@
+# Blog-Api-Project-Without-Authorization
+I've build this blog api project completely on my own. I've faced a lot of errors during the project and I solved them by googling :) I've learned tons of usefuıl things and more importantly I've understand the logic of building restful api. For now there's no real authentication/authorization. I will learn these stuff, come to this projecta and implement them :) That's how learning is done!
