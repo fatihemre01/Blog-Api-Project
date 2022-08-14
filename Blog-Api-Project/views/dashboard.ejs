@@ -1,0 +1,14 @@
+<h1>Dashboard</h1>
+
+<button><a href="/sharepost">Share Post</a></button>
+
+<h2>Your Blogs</h2>
+<hr>
+
+<% for(let x = blogs.length - 1; x >= 0; x--) { %> 
+<div>
+    <h3><%= blogs[x].title %> </h3>
+    <span><%= blogs[x].content %> </span>
+</div>
+<hr>
+<% } %> 
